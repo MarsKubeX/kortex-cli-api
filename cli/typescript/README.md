@@ -1,6 +1,6 @@
 # kortex-cli Types
 
-[![npm version](https://img.shields.io/npm/v/@kortex-hub/kotex-cli-api.svg)](https://www.npmjs.com/package/@kortex-hub/kotex-cli-api)
+[![npm version](https://img.shields.io/npm/v/@kortex-hub/kortex-cli-api.svg)](https://www.npmjs.com/package/@kortex-hub/kortex-cli-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 TypeScript type definitions for the [kortex-cli](https://github.com/kortex-hub/kortex-cli), providing complete type safety when interacting with JSON output returned by the CLI.
